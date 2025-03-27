@@ -1,4 +1,4 @@
-# FastAPI Notion API CRUD
+# ⚡ FastAPI Notion API CRUD
 
 Bài tập này giúp làm quen với FastAPI bằng cách xây dựng một API để thao tác với Notion Database. API sẽ hỗ trợ các thao tác CRUD (Create, Read, Update, Delete) với các subpage trong Notion.
 
@@ -56,7 +56,7 @@ Sau khi chạy, API docs có thể xem tại:
 # 🔥 Ghi chú
 - Notion API yêu cầu Bearer Token, hãy đảm bảo bạn đã tạo một integration token và có quyền truy cập database.
 
-#  Nguồn tham khảo
+# 📋 Nguồn tham khảo
 ### Notion API
 -  Để hiểu rõ hơn cách hoạt động của Notion Database, bạn có thể đọc tài liệu chính thức tại: 👉 https://developers.notion.com/
 
@@ -70,5 +70,5 @@ Sau khi chạy, API docs có thể xem tại:
 
 - Cuối cùng là hiểu về FastAPI : https://www.youtube.com/watch?si=EsUJ5dufpdktNjL1&v=-yEbzQSbZCo&feature=youtu.be
 
-# Database
+# 🛢️ Database
 - Đây là một database của một anh soạn bài tập cho các bạn intern vào công ty, như một bài test nhỏ để  chứng minh các bạn hiểu được về fastAPI :https://quartz-dollar-727.notion.site/C-y-1-15bb74c8fed180c4ab12f178c04cfbfc (cần duplicate cái template này về )
